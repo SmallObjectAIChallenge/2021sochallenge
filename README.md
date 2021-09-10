@@ -100,8 +100,8 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 ※ 참가 신청 시 팀의 commit log 기재 방법 https://github.com/Korea-Health-Datathon/KHD2020/issues/5
 
 ## 추진
-- 주관: 과학기술정보통신부, 한국지능정보사회진흥원
-- 주최: 씨유박스, 크라우드웍스, 슈퍼브에이아이, 어반유니온, 크라우드픽, 제제듀
+- 주최: 과학기술정보통신부, 한국지능정보사회진흥원
+- 주관: 씨유박스, 크라우드웍스, 슈퍼브에이아이, 어반유니온, 크라우드픽, 제제듀
 
 ## FAQ
 - 자주 문의하는 내용을 확인해 보세요! [FAQ](https://github.com/SmallObjectAIChallenge/2021sochallege/blob/master/FAQ.md)
