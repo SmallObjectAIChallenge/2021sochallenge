@@ -1,4 +1,4 @@
-![소형객체](https://user-images.githubusercontent.com/90318314/132493185-06cf11a6-4c2e-406a-953d-6fddd63dd36f.jpg)
+![소형객체 인공지능 모델 개발 챌린지_1](https://user-images.githubusercontent.com/90318314/132815665-1ab30e75-a877-45d4-9acb-aeb1c7482fcf.jpg)
 # Small Object AI Challenge 2021
 소형객체 인공지능 모델 개발에 도전해보세요! <p>
 Small Object AI Challenge는 '인공지능 학습용 데이터 구축 사업'을 통해 구축된 소형객체 이미지, 수식/도형/낙서/기호 등 OCR 데이터를 활용하여 소형객체 인식 인공지능 모델과 OCR 인식 인공지능 모델을 개발하는 해커톤 대회입니다. <p>
